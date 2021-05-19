@@ -29,10 +29,17 @@ dotnet run
 
 * Copy/paste the localhost link in the browser to launch the application.
 
+## Output Demo
+
+
+![Output Demo](./wwwroot/styles/dynamic_component.gif)
+
+
 ## Blog reference
 
 The detailed information about this is available in the blog,  
 
 ## See also
+
 * [Online examples](https://blazor.syncfusion.com)
 * [Documentation](https://blazor.syncfusion.com/documentation/introduction/)
